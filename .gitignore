@@ -15,3 +15,9 @@
 .DS_Store
 
 .prettierignore
+style-guide.md
+READme-template.md
+design
+styles.css.map
+styles.min.css.map
+styles.min.css
